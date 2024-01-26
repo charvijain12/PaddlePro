@@ -12,7 +12,6 @@ Paddle Pro is an arcade-style Pong game developed using Python's Pygame library.
 
 ## Screenshots 📸
 
-### Home Screen
 <div style="display: flex;">
     <div style="margin-right: 20px;">
         <h3>Home Screen</h3>
