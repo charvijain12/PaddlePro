@@ -12,13 +12,16 @@ Paddle Pro is an arcade-style Pong game developed using Python's Pygame library.
 
 ## Screenshots 📸
 
-### Home Screen
-![Home Screen]![image](https://github.com/charvijain12/PaddlePro/assets/97164074/f55be878-09a5-4722-9382-f9e4fe02faee)
-
-
-### Game Window
-![Game Window]![image](https://github.com/charvijain12/PaddlePro/assets/97164074/1b9f9a28-d2c4-4150-b9c9-b3e0abee15ff)
-
+<div style="display: flex; justify-content: space-around;">
+    <div>
+        <h3>Home Screen</h3>
+        <img src="https://github.com/charvijain12/PaddlePro/assets/97164074/f55be878-09a5-4722-9382-f9e4fe02faee" alt="Home Screen" width="400">
+    </div>
+    <div>
+        <h3>Game Window</h3>
+        <img src="https://github.com/charvijain12/PaddlePro/assets/97164074/1b9f9a28-d2c4-4150-b9c9-b3e0abee15ff" alt="Game Window" width="400">
+    </div>
+</div>
 
 ## Installation and Usage 🚀
 
@@ -31,4 +34,3 @@ Paddle Pro is an arcade-style Pong game developed using Python's Pygame library.
 ## License 📄
 
 This project is licensed under the [MIT License](LICENSE).
-
