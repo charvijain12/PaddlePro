@@ -4,11 +4,11 @@ Paddle Pro is an arcade-style Pong game developed using Python's Pygame library.
 
 ## Key Features 🌟
 
-- **Classic Gameplay:** Experience the nostalgia of the classic Pong game.
-- **User Controls:** Control your paddle with the 'W' and 'S' keys to hit the ball.
-- **AI Opponent:** Compete against an AI-controlled opponent with dynamic paddle movements.
-- **Score Tracking:** Keep track of your and AI's scores displayed on the screen.
-- **Interactive Start Screen:** Engage with the interactive start screen to begin the game.
+- **Classic Gameplay:** Experience the nostalgia of the classic Pong game. 🕹️
+- **User Controls:** Control your paddle with the 'W' and 'S' keys to hit the ball. ⌨️
+- **AI Opponent:** Compete against an AI-controlled opponent with dynamic paddle movements. 🤖
+- **Score Tracking:** Keep track of your and AI's scores displayed on the screen. 📊
+- **Interactive Start Screen:** Engage with the interactive start screen to begin the game. 🚀
 
 ## Screenshots 📸
 
@@ -28,7 +28,7 @@ Paddle Pro is an arcade-style Pong game developed using Python's Pygame library.
 1. Ensure you have Python installed on your system.
 2. Clone or download the repository to your local machine.
 3. Install Pygame by running `pip install pygame` in your terminal.
-4. Run the `pong.py` script to start the game.
+4. Run the `PaddlePro.py` script to start the game.
 5. Use the 'W' and 'S' keys to control your paddle.
 
 ## License 📄
